@@ -1,0 +1,28 @@
+[29-Aug-2020 14:34:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Resource temporarily unavailable in /home/binakons/gmedia.web.id/xdark/update.php on line 6
+[29-Aug-2020 22:34:29 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 115
+[29-Aug-2020 22:34:29 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 116
+[29-Aug-2020 22:34:29 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 117
+[29-Aug-2020 22:34:29 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 118
+[29-Aug-2020 22:34:29 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 119
+[29-Aug-2020 14:34:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/binakons/gmedia.web.id/xdark/update.php on line 6
+[29-Aug-2020 22:34:38 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 115
+[29-Aug-2020 22:34:38 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 116
+[29-Aug-2020 22:34:38 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 117
+[29-Aug-2020 22:34:38 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 118
+[29-Aug-2020 22:34:38 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 119
+[20-Sep-2020 15:40:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/binakons/gmedia.web.id/xdark/update.php on line 6
+[20-Sep-2020 23:40:14 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 115
+[20-Sep-2020 23:40:14 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 116
+[20-Sep-2020 23:40:14 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 117
+[20-Sep-2020 23:40:14 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 118
+[20-Sep-2020 23:40:14 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 119
+[20-Sep-2020 15:40:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/binakons/gmedia.web.id/xdark/update.php on line 6
+[20-Sep-2020 23:40:23 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 115
+[20-Sep-2020 23:40:23 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 116
+[20-Sep-2020 23:40:23 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 117
+[20-Sep-2020 23:40:23 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 118
+[20-Sep-2020 23:40:23 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 119
+[20-Sep-2020 15:49:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/binakons/gmedia.web.id/xdark/update.php on line 6
+[20-Sep-2020 23:49:21 Asia/Singapore] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/binakons/gmedia.web.id/xdark/update.php on line 13
+[20-Sep-2020 23:49:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 14
+[20-Sep-2020 23:49:21 Asia/Singapore] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/binakons/gmedia.web.id/xdark/update.php on line 15

@@ -1,0 +1,267 @@
+html, body {
+    font-family: 'Cuprum', sans-serif;
+}
+
+.berita-banner {
+    background-image: url('../img/berita.jpg');
+    background-size: 100% 100%;
+    min-height: 350px;
+}
+.berita-list,
+.berita-info {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.berita-list .thumbnail img {
+    height: 180px;
+    width: 100%;
+}
+.berita-list .thumbnail .caption h3 a {
+    color: #F8A501;
+}
+.berita-list .thumbnail .caption p {
+    text-align: justify;
+}
+.berita-info h1 {
+    color: #F8A501;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 25px;
+    text-align: center;
+}
+.berita-info img {
+    width: 300px;
+    height: 180px;
+    float: left;
+    margin-right: 25px;
+    margin-bottom: 25px;
+}
+.berita-info p {
+    text-align: justify;
+}
+
+.navbar {
+    height: 60px;
+}
+.navbar-brand {
+    color: #555 !important;
+    font-weight: bold;
+}
+.navbar-brand,
+.navbar-nav > li > a {
+    padding: 20px 18px
+}
+
+.spacer {
+    height: 30px;
+}
+
+.clear-padding {
+    padding: 0;
+}
+
+.thumbnail-noborder {
+    background-color: transparent;
+    border: 0;
+    padding: 0;
+}
+
+h4.page-title {
+    margin-left: 20px;
+}
+
+.metric-container {
+    margin-top: 62px;
+}
+.metric {
+    padding: 12px;
+    margin-bottom: 20px;
+}
+.metric .title {
+    font-size: 13px;
+}
+
+section {
+    background-color: #563d7c;
+    h1,h2,h3 {
+        color: #000000;
+        font-size:5vw;
+        small {color: rgba(255,255,255,0.75);}
+    }
+    p, a, .lead {color: rgba(255,255,255,0.5); font-size:1.5vw;}
+    a {text-decoration:underline;color:rgba(255,255,255,0.75);}
+}
+
+section {
+    background-size: cover;
+    background-position: center center;
+}
+
+#section-berita {
+    background-color: #F3F5F8;
+}
+
+#section-pasar,
+#section-bidang,
+#section-sertifikasi,
+#section-konstruksi,
+#section-tukang-first,
+#section-tukang-second {
+    color: #000;
+    background-color: #FFF;
+    background-image: url('../img/landing.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#section-bidang h1,
+#section-sertifikasi h1,
+#section-konstruksi h1 {
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+#section-bidang h1 small,
+#section-sertifikasi h1 small,
+#section-konstruksi h1 small {
+    color: #000;
+    font-size: 18px;
+}
+#section-bidang .title,
+#section-sertifikasi p,
+#section-sertifikasi .pasal {
+    font-size: 18px;
+}
+#section-bidang .title,
+#section-sertifikasi .pasal {
+    font-weight: bold;
+}
+#section-bidang .subtitle {
+    font-size: 20px;
+    text-align: justify;
+}
+#section-bidang .footer-title {
+    font-weight: bold;
+    text-align: center;
+}
+ul.items li {
+    font-size: 20px;
+    margin: 10px 0;
+    text-align: justify;
+}
+
+#section-pasar {
+    color: #000;
+    background-color: #FFF;
+}
+#section-pasar h2 {
+    letter-spacing: 2px;
+    margin-top: 0;
+    padding-top: 0;
+}
+table.table thead tr th {
+    background-color: #EEE !important;
+    border-bottom: 0;
+}
+table.table-rekap thead tr th {
+    background-color: #F8A501 !important;
+}
+table.table-rekap thead th,
+table.table-rekap tbody tr td {
+    text-align: center;
+}
+table.table tbody tr td,
+table.table-rekap tbody tr td {
+    font-size: 13px;
+    background-color: #FFF;
+}
+table.table-rekap tbody tr th {
+    background-color: #FFF;
+}
+
+#section-tukang-first,
+#section-tukang-second {
+    background-color: #FFF !important;
+}
+#section-tukang-first .tukang-kabupaten,
+#section-tukang-second .tukang-kabupaten {
+    font-size: 14px;
+    font-weight: bold;
+}
+#section-tukang-first .tukang-total,
+#section-tukang-second .tukang-total {
+    font-size: 24px;
+    font-weight: bold;
+}
+#section-tukang-first .tukang-desc,
+#section-tukang-second  .tukang-desc {
+    font-size: 13px;
+}
+
+#myCarousel .carousel-caption {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    padding: 10px;
+    background: rgba(0,0,0,0.6);
+    text-shadow: none;
+}
+#myCarousel .carousel-caption h4 a {
+    color: #FFF !important;
+}
+#myCarousel .list-group {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#myCarousel .list-group .active {
+    color: #FFF;
+    background-color: #4EAF52;
+}
+#myCarousel .list-group .active .media-heading {
+    color: #FFC800;
+}
+#myCarousel .list-group-item {
+    color: #888;
+    background-color: #364D45;
+    border: 0 none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+#myCarousel .list-group-item .media-heading {
+    color: #191F72;
+    font-size: 1em;
+    font-weight: bold;
+}
+@media (min-width: 992px) {
+    #myCarousel {
+        padding-right: 33.3333%;
+    }
+    #myCarousel .carousel-controls {
+        display: none;
+    }
+}
+@media (max-width: 991px) {
+    .carousel-caption p,
+    #myCarousel .list-group {
+        display: none;
+    }
+}
+
+.btn-primary {
+    background-color: #F8A501;
+    border: 0 none;
+    border-radius: 0;
+}
+.btn-primary:hover {
+    background-color: #E89501;
+}
+
+#myCarousel .item {
+    height: 390px;
+    width: 750px;
+}
+.img-berita {
+    height: 390px;
+    width: 750px;
+    object-fit: cover;
+}

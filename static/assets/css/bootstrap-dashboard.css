@@ -1,0 +1,113 @@
+.navbar,
+.brand {
+	height: 70px;
+}
+
+.navbar-default .brand {
+	padding-top: 22px;
+	padding-bottom: 22px;
+}
+.navbar-btn {
+	margin-top: 4px;
+	margin-bottom: 4px;
+	padding-top: 14px;
+	padding-bottom: 14px;
+}
+.navbar-btn button {
+	padding: 4px 8px;
+}
+.navbar-nav > li > a {
+	padding: 24px 18px
+}
+
+body,
+#wrapper .main {
+	background-color: #EFEFF5;
+}
+
+.main-content {
+	padding: 17px 10px !important;
+}
+
+.sidebar .nav > li > a {
+	color: #FFF;
+}
+.sidebar .nav > li > a:focus,
+.sidebar .nav > li > a:hover {
+	background-color: #252C35;
+}
+.sidebar .nav > li > a i {
+	color: #0AF;
+}
+.sidebar .nav > li > a:focus i,
+.sidebar .nav > li > a:hover i {
+	color: #8DF;
+}
+
+table.table thead tr th {
+	background-color: #F5F5FA;
+	border-bottom: 0;
+}
+table.table tbody tr td {
+	font-size: 13px;
+}
+thead input {
+    width: 100%;
+    padding: 0;
+}
+#data-table.table-act thead th:last-child input {
+   visibility: hidden;
+}
+.dataTables_filter {
+	display: none;
+}
+
+.btn {
+	border: 0;
+}
+.btn-xs {
+	/* padding: 4px 7px 2px 7px; */
+	padding: 3px 8px;
+}
+.btn-warning {
+	background-color: #F0AD4E;
+}
+.btn-warning:hover {
+	background-color: #E09D3E;
+}
+
+.label-info {
+	color: #31708F;
+	background-color: #D9EDF7;
+	font-weight: bold;
+}
+.label-danger {
+	color: #A94442;
+	background-color: #F2DEDE;
+	font-weight: bold;
+}
+
+.panel {
+	padding-bottom: 8px;
+}
+.panel-action {
+	text-align: right;
+	margin-top: 5px;
+}
+hr.panel-divider {
+	margin: 0 25px 15px 25px;
+}
+h3.panel-title {
+	padding-top: 8px;
+	text-transform: uppercase;
+}
+
+.form-buttons {
+	text-align: right;
+}
+
+/*
+.sidebar-scroll {
+	background-color: #013869 !important;
+}
+*/

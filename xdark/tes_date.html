@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Time Picker</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/timepicker.css">
+</head>
+<body>
+<nav class="navbar navbar-default navbar-static-top">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<a class="navbar-brand" href="https://www.tutorialswb.com/">TutorialsWB</a>
+				<ul class="nav navbar-nav">
+					<li class="active"><a href="#">Example TimePicker</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+<div class="container">
+	<br/>
+	<div class="row">
+		<div class="col-sm-4 col-sm-offset-4">
+			<div class="bootstrap-timepicker">
+                <div class="form-group">
+	                <label>Time picker:</label>
+
+                  	<div class="input-group input-group-lg">
+                    	<input type="text" class="form-control timepicker">
+
+                    	<div class="input-group-addon">
+                      		<span class="glyphicon glyphicon-time"></span>
+                    	</div>
+                  	</div>
+                </div>
+            </div>
+		</div>
+	</div>
+</div>
+
+<script src="assets/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="assets/timepicker.js"></script>
+<script>
+$(function(){
+	$('.timepicker').timepicker({
+      	showInputs: false
+    })
+});
+</script>
+</body>
+</html>
